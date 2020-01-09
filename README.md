@@ -6,8 +6,9 @@
 - Unambiguous, language must be clear and simple.
 - Clear affirmative action, the person must expressly consent by doing or saying something.
 
-## [trailhead, Get to Know EU Privacy Law](https://trailhead.salesforce.com/en/content/learn/modules/european-union-privacy-law-basics/get-to-know-eu-privacy-law)
+## [eu privacy badge](https://trailhead.salesforce.com/en/content/learn/modules/european-union-privacy-law-basics)
 
+### trailhead, Get to Know EU Privacy Law
 
 - Explain the basics of the General Data Privacy Regulation (GDPR). / Define key privacy terms.
   - Basis of data processing
@@ -26,7 +27,7 @@
 - Describe how the GDPR changes EU privacy law.
   - shortly put, private people have the right and own their own information. Companies and/or other people that obtain/process data, must have the subjects permission to do so, and they cannot share their data under almost any cercumstances
   
-## Learn Key Principles of the GDPR
+### Learn Key Principles of the GDPR
 
 - Explain the key privacy principles underlying the GDPR.
   - Fairness and Transparency
@@ -50,7 +51,7 @@
   - transparency, the subject must be made aware of all uses of their personal data.
   - extra processing besides what is strictly neccessary to adhear to a contract or an account, must be made known to the subject, the subject must make the choice for these extra processing themselves, with no detriment to service or product.
   
-## Implement a GDPR Compliance Program
+### Implement a GDPR Compliance Program
 
 - Explain how Salesforce helps customers comply with the GDPR.
   - Salesforce has a [data processing addendum](https://www.salesforce.com/assets/pdf/misc/data-processing-addendum.pdf), which help their customers transfer data efficiently, securly and legally
@@ -62,3 +63,22 @@
     - find where the company stores data, and which data points are required, and which are superfluous.
     - if the data is sensitive or personal, inspect how it is encrypted and transfered.
     - notify customers of the organisation, what their data is being used for, and which data points are being stored.
+    
+## [US Privacy Law Basics](https://trailhead.salesforce.com/content/learn/modules/us-privacy-law-basics)
+
+### Get to Know US Privacy Law
+- List the government agencies involved in US privacy law.
+  - 
+- Describe the framework of US privacy laws.
+- Explain key US privacy statutes.
+### Learn Privacy Law for the Healthcare Industry
+- Describe how HIPAA is administered and enforced.
+- List the different entities that have obligations under HIPAA.
+- Explain what the HIPAA Privacy and Security Rules require.
+### Learn Privacy Law for the Financial Services Industry
+- List the types of financial services companies subject to federal privacy laws.
+- Describe the provisions and obligations of financial services privacy laws.
+### Learn About State Laws Protecting Privacy Rights
+- Describe some common state requirements for data breach notifications.
+- Describe the impact of CalOPPA on the use of website privacy notices.
+- Explain how Salesforce is committed to protecting customers’ data.
